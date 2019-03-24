@@ -9,3 +9,10 @@ The app prints to the console the info about original element and the path to th
 
 The search is based on the comparison of the element from original html to the elements of target html of the same tag name
 basing on the equality of attributes values and elements texts.
+
+p.s.:
+The project was switched to Maven after one hour of unsuccessful tries to establish the env for gradle.
+Logger was switched off due to the same reason.
+
+The code itself is raw enough but working :)
+Future steps would be to refactor it a bit (basing on OOP approach and with more usage of Stream API) and to add unit test as well.
