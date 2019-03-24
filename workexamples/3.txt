@@ -1,0 +1,11 @@
+args: "./samples/sample-0-origin.html" "./samples/sample-3-the-escape.html" "wrapper"
+
+Original element info:
+attributes:  id="wrapper"
+name: div
+text:
+
+Result path:
+html class="" text=""
+body class="" text=""
+div class="" text=""

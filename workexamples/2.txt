@@ -1,0 +1,17 @@
+args: "./samples/sample-0-origin.html" "./samples/sample-4-the-mash.html"
+
+Original element info:
+attributes:  id="make-everything-ok-button" class="btn btn-success" href="#ok" title="Make-Button" rel="next" onclick="javascript:window.okDone(); return false;"
+name: a
+text: Make everything OK
+
+Result path:
+html class="" text=""
+body class="" text=""
+div class="" text=""
+div class="" text=""
+div class="row" text=""
+div class="col-lg-8" text=""
+div class="panel panel-default" text=""
+div class="panel-footer" text=""
+a class="btn btn-success" text="Do all GREAT"

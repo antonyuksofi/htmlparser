@@ -1,0 +1,17 @@
+args: "./samples/sample-0-origin.html" "./samples/sample-1-evil-gemini.html" "make-everything-ok-button"
+
+Original element info:
+attributes:  id="make-everything-ok-button" class="btn btn-success" href="#ok" title="Make-Button" rel="next" onclick="javascript:window.okDone(); return false;"
+name: a
+text: Make everything OK
+
+Result path:
+html class="" text=""
+body class="" text=""
+div class="" text=""
+div class="" text=""
+div class="row" text=""
+div class="col-lg-8" text=""
+div class="panel panel-default" text=""
+div class="panel-body" text=""
+a class="btn btn-success" text="Make everything OK"
